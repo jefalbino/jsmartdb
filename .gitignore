@@ -1,0 +1,7 @@
+/.classpath
+/.project
+/.settings/org.eclipse.core.resources.prefs
+/target/classes/META-INF/MANIFEST.MF
+org.eclipse.jdt.core.prefs
+org.eclipse.m2e.core.prefs
+target
