@@ -5,3 +5,11 @@
 org.eclipse.jdt.core.prefs
 org.eclipse.m2e.core.prefs
 target
+/.idea/.name
+/.idea/compiler.xml
+/.idea/copyright/profiles_settings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/jsmartdb.iml
